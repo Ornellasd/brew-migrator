@@ -2,6 +2,8 @@
 
 A lightweight Bash utility to identify "drag-and-drop" macOS applications and migrate them to **Homebrew Cask** management.
 
+<img src="./screenshot.png" width="500">
+
 ## 🚀 Why use this?
 Manually installing apps by dragging them into `/Applications` makes them hard to update. By moving them to Homebrew, you can update every app on your system with a single command: `brew upgrade`.
 
