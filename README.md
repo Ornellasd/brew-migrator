@@ -12,3 +12,6 @@ Manually installing apps by dragging them into `/Applications` makes them hard t
 - **Interactive Menu**: Choose specific apps to convert using numbers (e.g., `1 3 5`) or convert all at once.
 - **Force Takeover**: Uses `--force` to let Homebrew take control of existing `.app` bundles without losing your settings.
 - **Auto-Manifest**: Automatically updates a `~/.Brewfile` so you can replicate your setup on any Mac.
+
+## To Dos
+- **Error handling**
